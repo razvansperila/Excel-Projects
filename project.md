@@ -1,4 +1,4 @@
-I built a dashboard to visualize the difference between the target set for company ABC and the actual profit realized.
+I built a dashboard to track and visualize the difference between the target set for company ABC and the actual profit realized.
 ---
 ![image](https://github.com/razvansperila/Excel-Target_vs_Realized/blob/main/dashboard.png)
 
